@@ -49,14 +49,14 @@ A estrutura segue aproximadamente este formato:
 ```
 Competitive Programming 2024/
 │
-├── Problema 01/
-│   └── solution.py
+├── Problema A/
+│   └── solution_A.py
 │
-├── Problema 02/
-│   └── solution.py
+├── Problema B/
+│   └── solution_B.py
 │
-├── Problema 03/
-│   └── solution.py
+├── Problema C/
+│   └── solution_C.py
 │
 ├── ...
 │
